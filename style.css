@@ -1,0 +1,51 @@
+ul{
+    list-style: none;
+}
+td{
+    width: 11%;
+    text-align: center;
+    background-color: aqua;
+    transition: transform 0.3s ease-in-out;
+    
+}
+td:hover{
+    font-size: x-large;
+    background-color: red;
+    transform: scale(1.1);
+   
+}
+.cmm{
+    width: 90px;
+    height: 350px;
+    
+    
+    overflow: scroll;
+    background-color: darkgray;
+}
+.dm{
+    font-size: x-large;
+}
+.op{
+    font-size: small;
+    background-color: aquamarine;
+    border-radius: 20px;
+    width: 500px;
+    padding: 20px;
+    max-width: fit-content;
+   
+}
+li{
+    font-size: large;
+}
+button{
+    border-radius: 5px;
+    background-color: rgb(98, 98, 197);
+    align-items: center;
+    padding: 20px;
+}
+.class{
+    width: 50vw;
+}
+a{
+    text-decoration: none;
+}
